@@ -3,6 +3,13 @@
 Overview
 This is a simple and interactive To-Do List built using HTML, CSS, and JavaScript. It helps users add, delete, and mark tasks as completed, making task management easy and efficient.
 
+Live Preview: https://godeshwari.github.io/To-Do-web/
+
+DEMO 📸
+
+<img width="439" height="605" alt="Screenshot 2026-06-21 at 2 58 51 PM" src="https://github.com/user-attachments/assets/3baec2df-1389-49ca-b30a-2ec3cdeb8931" />
+
+
 
 Features
 
